@@ -1,0 +1,3 @@
+[submodule "python-evdev"]
+	path = python-evdev
+	url = https://github.com/Larhard/python-evdev.git
